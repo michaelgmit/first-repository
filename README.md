@@ -1,2 +1,2 @@
 # first-repository
-software development repository 
+This is part of my Software Development class.
